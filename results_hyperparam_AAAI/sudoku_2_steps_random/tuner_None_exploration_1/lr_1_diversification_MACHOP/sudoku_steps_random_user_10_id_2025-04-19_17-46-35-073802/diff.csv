@@ -1,0 +1,4 @@
+,number_adjacent_facts_other_value,number_other_facts_same_value,number_other_facts_other_value,adjacent_col_used,adjacent_row_used,adjacent_block_used,other_col_cons,other_row_cons,other_block_cons,number_adjacent_row_facts,number_adjacent_col_facts,number_adjacent_block_facts,name
+0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Starting
+1,0.0,0.0,0.05,0.0,-1.0,-1.0,0.375,0.375,0.625,0.0,0.0,0.0,Difference
+2,1.0,1.0,1.05,1.0,0.001,0.001,1.375,1.375,1.625,1.0,1.0,1.0,Final

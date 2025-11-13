@@ -1,0 +1,9 @@
+cpmpy==0.9.24
+ipython==8.12.3
+matplotlib==3.10.5
+numpy==2.3.2
+pandas==2.3.1
+seaborn==0.13.2
+tqdm==4.67.1
+gurobipy==12.0.0
+ortools==9.11.4210

@@ -12,7 +12,7 @@ This repository contains scripts to run experiments for learning preferences in 
 
 ## Purpose
 
-The experiments for the oracle can be configured to use different users, normalization strategies, step selection strategies, diversification strategies, and a random seed.
+The experiments for the oracle can be configured to use different users, normalization strategies, step selection strategies, and diversification strategies.
 
 ---
 
@@ -60,7 +60,7 @@ Both scripts accept the following command-line arguments:
 
 - `-f`, `--seed`  
   **Type:** `int`  
-  **Description:** Random seed for reproducibility.  
+  **Description:** Seed.  
   **Default:** `42`
 ### Example Usage
 
@@ -78,8 +78,6 @@ This Jupyter notebook allows for interactive training and evaluation of the pref
 
 - Train the model using pairwise comparisons provided by a real user.
 - Evaluate the learned preferences as described in the paper.
-
-This workflow enables reproducible experiments and analysis of the preference elicitation process with real user feedback.
 
 ---
 
